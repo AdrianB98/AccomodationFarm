@@ -1,0 +1,1061 @@
+/* FONTS  */
+
+@font-face {
+    font-family: 'rb_vitruv_display_testblack';
+    src: url('Fonts/vitruvdisplaytest-black-bf6465a0b5e5641-webfont.woff2') format('woff2'),
+        url('Fonts/vitruvdisplaytest-black-bf6465a0b5e5641-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'rb_vitruv_display_testBlkIt';
+    src: url('Fonts/vitruvdisplaytest-blackitalic-bf6465a0b61844e-webfont.woff2') format('woff2'),
+        url('Fonts/vitruvdisplaytest-blackitalic-bf6465a0b61844e-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'rb_vitruv_display_testbold';
+    src: url('Fonts/vitruvdisplaytest-bold-bf6465a0b5d2f8f-webfont.woff2') format('woff2'),
+        url('Fonts/vitruvdisplaytest-bold-bf6465a0b5d2f8f-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'rb_vitruv_display_testBdIt';
+    src: url('Fonts/vitruvdisplaytest-bolditalic-bf6465a0b60d7f6-webfont.woff2') format('woff2'),
+        url('Fonts/vitruvdisplaytest-bolditalic-bf6465a0b60d7f6-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'rb_vitruv_display_testmedium';
+    src: url('Fonts/vitruvdisplaytest-medium-bf6465a0b6442a7-webfont.woff2') format('woff2'),
+        url('Fonts/vitruvdisplaytest-medium-bf6465a0b6442a7-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'rb_vitruv_display_testMdIt';
+    src: url('Fonts/vitruvdisplaytest-mediumitalic-bf6465a0b62feb0-webfont.woff2') format('woff2'),
+        url('Fonts/vitruvdisplaytest-mediumitalic-bf6465a0b62feb0-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'rb_vitruv_text_testblack';
+    src: url('Fonts/vitruvtexttest-black-bf6465a0b412c3b-webfont.woff2') format('woff2'),
+        url('Fonts/vitruvtexttest-black-bf6465a0b412c3b-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'rb_vitruv_text_testbold';
+    src: url('Fonts/vitruvtexttest-bold-bf6465a0b646539-webfont.woff2') format('woff2'),
+        url('Fonts/vitruvtexttest-bold-bf6465a0b646539-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'rb_vitruv_text_testmedium';
+    src: url('Fonts/vitruvtexttest-medium-bf6465a0b61bd49-webfont.woff2') format('woff2'),
+        url('Fonts/vitruvtexttest-medium-bf6465a0b61bd49-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'rb_vitruv_text_testregular';
+    src: url('Fonts/vitruvtexttest-regular-bf6465a0b64594b-webfont.woff2') format('woff2'),
+        url('Fonts/vitruvtexttest-regular-bf6465a0b64594b-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'rb_vitruv_text_testitalic';
+    src: url('Fonts/vitruvtexttest-regularitalic-bf6465a0b619fea-webfont.woff2') format('woff2'),
+        url('Fonts/vitruvtexttest-regularitalic-bf6465a0b619fea-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'rb_vitruv_text_testSBdIt';
+    src: url('Fonts/vitruvtexttest-semibolditalic-bf6465a0b5d724d-webfont.woff2') format('woff2'),
+        url('Fonts/vitruvtexttest-semibolditalic-bf6465a0b5d724d-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* APERCU FONTS  */
+
+@font-face {
+    font-family: 'apercubold';
+    src: url('Fonts/apercu_bold-webfont.woff2') format('woff2'),
+        url('Fonts/apercu_bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'aperculight';
+    src: url('Fonts/apercu_light-webfont.woff2') format('woff2'),
+        url('Fonts/apercu_light-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'apercumedium';
+    src: url('Fonts/apercu_medium-webfont.woff2') format('woff2'),
+        url('Fonts/apercu_medium-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'apercu_monoregular';
+    src: url('Fonts/apercu_mono-webfont.woff2') format('woff2'),
+        url('Fonts/apercu_mono-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'apercu_probold';
+    src: url('Fonts/apercu_pro_bold-webfont.woff2') format('woff2'),
+        url('Fonts/apercu_pro_bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'apercu_prolight';
+    src: url('Fonts/apercu_pro_light-webfont.woff2') format('woff2'),
+        url('Fonts/apercu_pro_light-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'apercu_promedium';
+    src: url('Fonts/apercu_pro_medium-webfont.woff2') format('woff2'),
+        url('Fonts/apercu_pro_medium-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'apercu_promono';
+    src: url('Fonts/apercu_pro_mono-webfont.woff2') format('woff2'),
+        url('Fonts/apercu_pro_mono-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'apercu_proregular';
+    src: url('Fonts/apercu_pro_regular-webfont.woff2') format('woff2'),
+        url('Fonts/apercu_pro_regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'apercuregular';
+    src: url('Fonts/apercu_regular-webfont.woff2') format('woff2'),
+        url('Fonts/apercu_regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* GENERAL STYLING */
+
+*,
+*::after,
+*::before {
+    box-sizing: border-box;
+    /* outline: 1px solid lime; */
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+
+p {
+    padding: 0;
+    margin: 0;
+}
+
+/* WHITE NAV  */
+
+.white-nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 15px 40px;
+    z-index: 9;
+    background-color: white;
+}
+
+
+.logo-text {
+    font-size: 1.3rem;
+    font-family: 'rb_vitruv_text_testregular';
+    letter-spacing: 2.5px;
+
+}
+
+.book-btn {
+    border: 1px solid black;
+    padding: 15px 20px;
+    border-radius: 50px;
+    color: white;
+    background-color: #324658;
+    font-family: 'rb_vitruv_text_testregular';
+    font-size: 0.875rem;
+}
+
+/* MOBILE NAVBAR  */
+
+/* STYLING NAVBAR  */
+
+.overlay {
+    height: 100%;
+    width: 0%;
+    position: fixed;
+    z-index: 9;
+    top: 0;
+    right: 0; /* Modificare aici pentru a seta meniul la dreapta */
+    background-color: rgb(25, 34, 47);
+    overflow-y: hidden;
+    transition: width 0.8s cubic-bezier(.7, 0, .2, 1); /* Utilizare cubic-bezier pentru o tranziție personalizată */
+    overflow: hidden;
+  }
+  
+  .overlay-content {
+    position: relative;
+    top: 20%;
+    left: 10%;
+    width: 100%;
+    text-align: left;
+    margin-top: 30px;
+  }
+  
+  .overlay a:not(.overlay-socials a) {
+    padding: 8px;
+    text-decoration: none;
+    font-size: 35px;
+    color: white;
+    display: block;
+    transition: 0.3s;
+    letter-spacing: 2px;
+    font-family: 'Mulish', serif;
+  }
+  
+  .overlay-socials{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    font-family: 'Mulish', serif;
+    text-transform: uppercase;
+    margin-top: 30px;
+  }
+  
+  .overlay-socials a{
+    color: #818181;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 11px;
+    padding: 0 8px;
+    letter-spacing: 3px;
+    opacity: 0.7;
+  
+  }
+  
+  .overlay a:hover, .overlay a:focus {
+    color: #f1f1f1;
+  }
+  
+  .overlay .closebtn {
+    position: absolute;
+    top: 17px;
+    right: 35px;
+    font-size: 35px;
+  }
+  
+  hr.new1 {
+    margin-top: 30px;
+    width: 90%;
+    height:5px;
+    border-top:1px solid rgba(57, 57, 57, 0.832);
+    border-left: transparent;
+    border-bottom: transparent;
+    border-right: transparent;
+  }
+  
+  .stop-scrolling {
+    overflow: hidden;
+  }
+  
+  @media screen and (max-height: 450px) {
+  .overlay {
+      overflow-y: auto;
+  }
+  
+  .overlay a {
+      font-size: 16px
+  }
+  
+  .overlay .closebtn {
+      font-size: 20px;
+      top: 15px;
+      right: 35px;
+  }
+  }
+  
+  @media screen and (max-width: 450px) {
+  .overlay-content {
+      top: 20%;
+  }
+  }
+  
+  /* NAVBAR  */
+  
+  .nav-btn {
+  display: none;
+  }
+  
+
+/* SIMPLE NAVBAR  */
+
+#navbar {
+    position: fixed;
+    width: 100%;
+    display: block;
+    transition: top 0.7s;
+    z-index: 1;
+    display: flex;
+    justify-content: center;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.561);
+}
+
+#navbar a {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 15px;
+    text-decoration: none;
+    font-size: 1.2rem;
+    letter-spacing: 1.1px;
+
+}
+
+#main-section {
+    background-image: url("Images/image2.jpg");
+    height: 91vh;
+    background-size: 100% 100%;
+    position: relative;
+    /* z-index: -2; */
+    transition: background-image 0.3s ease-in-out;
+    /* Adaugă o tranzitie pe background-image */
+}
+
+.main-section-text {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    align-items: center;
+    justify-content: flex-end;
+    color: white;
+    /* font-family: 'rb_vitruv_text_testregular'; */
+    padding-bottom: 150px;
+}
+
+.main-first-text {
+    font-size: 9rem;
+    letter-spacing: 1.5px;
+}
+
+.main-second-text {
+    font-size: 2.6rem;
+}
+
+.main-second-text span {
+    border-bottom: 1px solid rgba(255, 255, 255, 0.416);
+    display: inline-block;
+    box-sizing: border-box;
+    transition: all .2s;
+}
+
+.scenery.active, .experiences.active, .spaces.active {
+    border-bottom: 1px solid white;
+
+
+}
+
+.scenery, .experiences, .spaces {
+    cursor: pointer;
+    position: relative;
+}
+
+@media screen and (max-width: 610px) {
+    .nav-btn{
+        display: block;
+    }
+ }
+
+@media screen and (max-width: 610px) {
+   #navbar{
+    display: none;
+   }
+
+   .logo-text{
+    display: none;
+}
+}
+
+@media screen and (max-width: 1100px) {
+    .main-first-text {
+        font-size: 5rem;
+    }
+
+    .main-second-text {
+        font-size: 2rem;
+        padding: 0px 20px;
+    }
+}
+
+/* PARALLAX IMAGE & ACTIVITY  */
+
+.activity-title {
+    text-align: center;
+    font-size: 5rem;
+    /* width: 80%; */
+    margin: 4rem auto;
+    white-space: normal;
+
+}
+
+.grid {
+    width: 90%;
+    margin: 0 auto;
+    padding-bottom: 40px;
+    display: flex;
+}
+
+.block-33 {
+    width: 33%;
+    float: left;
+    margin-top: 40px;
+}
+
+.gutter {
+    margin-left: 20px;
+    margin-right: 20px;
+    overflow: hidden;
+}
+
+.clear {
+    clear: both;
+    display: block;
+}
+
+.parallax-img {
+    width: 100%;
+}
+
+.first-activity {
+    border-left: 1px solid goldenrod;
+    border-bottom: 1px solid goldenrod;
+    padding: 10px;
+}
+
+.second-activity {
+    border-top: 1px solid goldenrod;
+    border-left: 1px solid goldenrod;
+    padding: 10px;
+}
+
+.third-activity {
+    border-right: 1px solid goldenrod;
+    border-bottom: 1px solid goldenrod;
+    padding: 10px;
+}
+
+.fourth-activity {
+    border-top: 1px solid goldenrod;
+    border-right: 1px solid goldenrod;
+    padding: 10px;
+}
+
+
+.activity-text-flex {
+    display: flex;
+    justify-content: space-between;
+    width: min(95%, 65rem);
+    margin: 0 auto;
+    gap: 6rem;
+    font-size: 1.5rem;
+    text-align: justify;
+    color: rgb(73, 73, 73);
+    line-height: 37px;
+    padding: 0 20px;
+}
+
+.activity-text::first-letter {
+    color: rgb(203, 159, 48);
+    margin-top: 0.7rem;
+    font-size: 3em;
+    /* Stabilește dimensiunea fontului pentru prima literă */
+    float: left;
+    /* Face ca prima literă să fie aliniată la stânga */
+    margin-right: 5px;
+    /* Creează un spațiu mic între prima literă și restul textului */
+    line-height: 0.8;
+    /* Ajustează înălțimea liniei pentru a îmbunătăți alinierea textului */
+    vertical-align: top;
+    /* Aliniere verticală la partea de sus a liniei */
+}
+
+@media screen and (max-width: 1100px) {
+    .activity-title {
+        font-size: 5vw;
+        padding: 0 20px;
+    }
+}
+
+@media screen and (max-width: 900px) {
+    .grid {
+        flex-wrap: wrap;
+        justify-content: center;
+        flex-direction: column;
+        align-items: center;
+        gap: 1rem;
+    }
+
+    .block-33 {
+        width: 80%;
+        margin: 0 auto;
+    }
+
+    .parallax-img {
+        transform: none !important;
+    }
+}
+
+@media screen and (max-width: 700px) {
+    .activity-title {
+        font-size: 3rem;
+        padding: 0 20px;
+    }
+
+    .activity-text-flex {
+        display: block;
+        text-align: left;
+        width: 80%;
+    }
+}
+
+/* IMAGE CARROUSEL  */
+
+.golf-section {
+    margin-top: 5rem;
+    height: 100vh;
+    background-image: url("Images/golf.webp");
+    background-position: center;
+    background-size: cover;
+}
+
+.golf-text {
+    position: relative;
+    top: 35%;
+    left: 30%;
+    transform: translate(-30%, -50%);
+    opacity: 90%;
+    width: min(95%, 50rem);
+    padding: 20px;
+}
+
+.golf-little-title {
+    display: flex;
+    gap: 1rem;
+    color: white;
+    font-weight: 400;
+    text-shadow: 1px 1px 0px black;
+    font-family: 'apercu_prolight';
+    padding-bottom: 15px;
+}
+
+.golf-main-title {
+    font-size: clamp(2rem, 8vw, 5rem);
+    color: white;
+    text-shadow: 1px 1px 0px black;
+}
+
+.golf-subtitle {
+    font-size: 1.3rem;
+    color: white;
+    font-weight: lighter;
+    font-family: 'apercu_prolight';
+    font-size: clamp(0.75rem, 3vw, 1.2rem);
+    padding-top: 15px;
+    line-height: 30px;
+}
+
+/* NEWSLETTER SECTION  */
+
+.box {
+    box-shadow: 0 4px 5px rgba(0, 0, 0, 0.1);
+    padding: 30px;
+    text-align: center;
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5rem;
+}
+
+
+
+.box p {
+    font-size: 1.2rem;
+    color: gray;
+}
+
+
+.form-control {
+    position: relative;
+    margin: 30px 0 20px;
+}
+
+.box .input {
+    border: 0;
+    border-radius: 50px;
+    border: 1px solid rgba(0, 0, 0, 0.273);
+    display: block;
+    font-family: 'Muli', sans-serif;
+    font-size: 14px;
+    height: 42px;
+    padding: 0.75rem 1.5rem;
+    width: 500px;
+    outline: none;
+}
+
+.box .btn {
+    background-color: #324658;
+    cursor: pointer;
+    border: 0;
+    border-radius: 50px;
+    color: #fff;
+    font-size: 14px;
+    height: 42px;
+    padding: 0.75rem 1.5rem;
+    position: absolute;
+    top: 0;
+    right: 0;
+
+}
+
+.box .input:focus, .btn:focus {
+    outline: 0;
+}
+
+@media screen and (max-width: 880px) {
+    .box {
+        flex-wrap: wrap;
+        gap: 0;
+    }
+
+    .box .form-control {
+        width: 100%;
+    }
+
+    .box .input {
+        width: 100%;
+    }
+}
+
+/* REVIEWS SECTION  */
+
+.home-demo {
+    width: 90%;
+    margin: 3rem auto;
+}
+
+.home-demo .item {
+    width: 95%;
+    height: 45vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    border-left: 5px solid #f7ce8c;
+    border-top: 1px solid rgba(65, 65, 65, .16);
+    border-right: 1px solid rgba(65, 65, 65, .16);
+    border-bottom: 1px solid rgba(65, 65, 65, .16);
+    padding-inline: 20px;
+    border-radius: 5px;
+    transition: background-color 200ms ease-in-out;
+}
+
+.home-demo img {
+    height: 100%;
+}
+
+.home-demo h2 {
+    color: #FFF;
+    text-align: center;
+    padding: 5rem 0;
+    margin: 0;
+    font-style: italic;
+    font-weight: 300;
+}
+
+@media (max-width: 1100px) {
+    .home-demo .item {
+        height: 40vh;
+    }
+}
+
+@media (max-width: 590px) {
+    .home-demo .item {
+        height: 50vh;
+    }
+}
+
+.item-title {
+    font-size: 2.3rem;
+    font-style: italic;
+    margin-bottom: 2rem;
+}
+
+.item-body {
+    font-size: 0.95rem;
+    text-align: justify;
+    color: gray;
+}
+
+.item:hover {
+    background-color: #f1ebe4;
+}
+
+/* BUSINESS SECTION  */
+
+.business-section {
+    width: 90%;
+    margin: 0 auto;
+    background-color: #F1EBE4;
+    padding: 5rem;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: 1fr;
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+    align-items: center;
+}
+
+.business-section:first-child {
+    grid-area: 1 / 1 / 2 / 3;
+}
+
+.business-section:last-child {
+    grid-area: 1 / 2 / 2 / 3;
+}
+
+.business-img {
+    width: 100%;
+}
+
+.business-second-item {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(4, 1fr);
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+}
+
+.business-img1 {
+    grid-area: 2 / 1 / 5 / 4;
+}
+
+.business-img2 {
+    grid-area: 1 / 2 / 4 / 5;
+
+}
+
+
+.business-first-item{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.business-title{
+    font-size: 4rem;
+}
+
+.business-body{
+    font-size: 1.2rem;
+    width: min(95%, 35rem);
+    line-height: 28px;
+    font-family: 'aperculight';
+}
+
+.business-footer-text{
+    font-size: 1.2rem;
+    font-family: 'apercubold';
+}
+
+.business-ceo{
+    font-family: 'aperculight';
+}
+
+.business-btn{
+    border: 1px solid grey;
+    padding: 15px 20px;
+    width: max-content;
+    border-radius: 50px;
+    background-color: #324658;
+    color: white;
+    outline: none;
+    font-family: 'aperculight';
+    font-size: 1.5rem;
+}
+
+.wedding-section {
+    width: 90%;
+    margin: 0 auto;
+    background-color: #F1EBE4;
+    padding: 5rem;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: 1fr;
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+    align-items: center;
+}
+
+.wedding-img{
+    width: min(95%,27rem);
+    /* aspect-ratio: 1; */
+}
+
+@media (max-width: 1200px) {
+    .business-section {
+        display: flex;
+        flex-direction: column-reverse;
+        padding: 2rem;
+    }
+
+    .wedding-section{
+        display: flex;
+        flex-direction: column;
+        gap: 3rem;
+        padding: 2rem;
+    }
+
+    .wedding-img{
+        width: 100%;
+    }
+}
+
+@media (max-width: 700px) {
+    .business-title{
+        font-size: 8vw;
+    }
+
+    .business-body{
+        font-size: 1rem;
+    }
+
+    .business-btn{
+        font-size: 1.2rem;
+    }
+}
+
+/* ACTIVITY SECTION  */
+
+.activities-title {
+    text-align: center;
+    font-size: 5rem;
+    /* width: 80%; */
+    margin: 0rem auto;
+    white-space: normal;
+    color: #373737;
+}
+
+.activities-top-title{
+    text-align: center;
+    font-family: 'aperculight';
+    letter-spacing: 2px;
+    margin-top: 5rem;
+}
+
+.activity-subtitle{
+    text-align: center;
+    font-family: 'aperculight';
+    font-size: 1.3rem;
+    margin-top: 1rem;
+    margin-bottom: 5rem;
+}
+
+.tooltip {
+    text-decoration:none;
+    position:relative;
+    display: flex;
+    justify-content: center;
+    width: max-content;
+    margin-inline: auto;
+    font-size: 8vw;
+    color: #C49A6B;
+}
+.tooltip span {
+    display:none;
+}
+
+.tooltip img{
+    width: 20rem;
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+}
+.tooltip:hover span {
+    display:block;
+    position:fixed;
+    overflow:hidden;
+    /* z-index: -1; */
+}
+
+/* HIDDEN TOOLTIP SECTION  */
+
+.hidden-flex{  
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(275px, 1fr));
+  grid-gap: 2rem;
+  margin: 2rem;
+}
+
+.hidden{
+    position: relative;
+    cursor: pointer;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    border-radius: 5px;
+}
+
+.hidden-img{
+    width: 100%;
+    height: 100%;
+}
+
+.hidden-text{
+    position: absolute;
+    bottom: 5px;
+    color: white;
+    padding: 1rem;
+    font-size: 4vw;
+    font-style: italic;
+}
+
+@media (max-width: 980px) {
+
+    .tooltip_activity{
+        display: none;
+    }
+}
+
+@media (min-width: 980px) {
+
+    .hidden-flex{
+        display: none;
+    }
+}
+
+/* RELAXED SECTION  */
+
+.relaxed-section{
+    width: 100%;
+    height: 100vh;
+    background-image: url(/Images/relaxed-bg.jpeg);
+    background-size: cover;
+    margin-top: 8rem;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 3rem;
+    padding-inline: 2rem;
+}
+
+.relaxed-logo{
+    width: 5rem;
+}
+
+.relaxed-title{
+    font-size: 9rem;
+    text-align: center;
+}
+
+.relaxed-btn{
+    font-size: 1.5rem;
+    background-color: white;
+    padding: 15px;
+    color: rgb(80, 80, 80);
+    border-radius: 50px;
+    cursor: pointer;
+    width: min(90%,30rem);
+    transition: transform 200ms ease-in-out;
+    text-align: center;
+}
+
+.relaxed-btn:hover{
+    transform: scale(1.02);
+}
+
+@media (max-width: 950px) {
+.relaxed-title{
+    font-size: 15vw;
+}
+
+.relaxed-btn{
+    font-size: 1.2rem;
+    padding: 15px;
+}
+}
+
